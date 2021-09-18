@@ -1,0 +1,65 @@
+yarn init -y
+yarn add react
+yarn add react-dom
+
+create src
+create public
+
+create public -> index.html
+
+yarn add @babel/core @babel/cli @babel/preset-env -D
+
+create file babel.config.js
+
+yarn add @babel/preset-react -D
+
+yarn add webpack webpack-cli webpack-dev-server -D
+
+create file webpack.config.js
+
+yarn add babel-loader -D
+
+yarn add html-webpack-plugin -D
+
+yarn add webpack-dev-server -D
+
+yarn add cross-env -D 
+
+yarn add style-loader css-loader -D
+
+yarn add sass-loader -D 
+
+yarn add node-sass -D
+
+Conceitos importantes no react
+- Componente
+- Propriedade
+- Estado
+
+Fragment
+<>
+    ...
+</>
+
+useState
+use => hook(grancho)
+
+yarn add @pmmmwh/react-refresh-webpack-plugin react-refresh -D
+
+useEffect => Cuidado para não deixar sem o segundo parâmetro e não utilizar a mesma variável
+
+yarn add typescript -D
+
+yarn tsc --init
+
+Configurar o arquivo tsconfig.json
+
+yarn add @babel/preset-typescript -D
+
+Configurar o arquivo babel.config.js
+
+Configurar o arquivo webpack.config.js
+
+yarn add @types/react-dom -D
+
+yarn add @types/react -D
