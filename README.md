@@ -24,7 +24,7 @@
 Github Explores é um projeto baseado no consumo da API do github para listar os repositórios de uma derterminada organização. 
 
 <h1 align="center">
-    <img alt="Exemplo" title="Exemplo" src="" width="500px" />
+    <img alt="Exemplo" title="Exemplo" src="https://github.com/ademilsonalmeida/ignite-fundamentos-reactjs/blob/main/capa.png" />
 </h1>
 
 ## :rocket: Tecnologias
